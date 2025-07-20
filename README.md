@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jefia</h1>
+<h1 align="center">Hi 👋, I'm Jef</h1>
 <h3 align="center">Figuring out software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jef4450&label=Profile%20views&color=0e75b6&style=flat" alt="jef4450" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ANYTHING <3**
 
-- 📫 How to reach me **jefia.edwin@gmail.com**
+- 📫 How to reach me **chocofudge1608@gmail.com**
 
 - ⚡ Fun fact **A COLD COFFEE SOLVES EVERYTHING GUYS!!**
 
