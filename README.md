@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jef</h1>
+<h1 align="center">Hi 👋, I'm Jefia</h1>
 <h3 align="center">Figuring out software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jef4450&label=Profile%20views&color=0e75b6&style=flat" alt="jef4450" /> </p>
@@ -7,19 +7,17 @@
 
 - 🌱 I’m currently learning **AWS cloud certification**
 
-- 👯 I’m looking to collaborate on **anything related to my tech stack**
-
-- 🤝 I’m looking for help with **none atp**
-
 - 💬 Ask me about **ANYTHING <3**
 
-- 📫 How to reach me **chocofudge1608@gmail.com**
+- 📫 How to reach me **jefia.edwin@gmail.com**
 
 - ⚡ Fun fact **A COLD COFFEE SOLVES EVERYTHING GUYS!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anothered4450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anothered4450" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jef" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jefia d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jefia d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
